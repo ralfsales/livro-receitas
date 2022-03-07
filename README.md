@@ -11,7 +11,7 @@ Olá! Seja bem vindo ao meu livro de receitas :hand::book:
 - **1** Limão,
 - **1 colher de sopa** de Vinagre;
 - **1 colher de sopa** Oregano;
-- **1 colher de sopa** Curcuma/Açafrão a gosto;
+- **1 colher de sopa** Curcuma/Açafrão;
 - Salcinha e Cebolinha a gosto;
 - Sal a gosto;
 - **1** Pacote de batata palha;
